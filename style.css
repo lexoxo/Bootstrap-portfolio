@@ -6,9 +6,12 @@ body {
 
 .navbar-brand {
   color: #6070ff !important;
-  font-weight: 700 !important;
 }
 
 .nav-link {
   color: #344563 !important;
+}
+
+.connect {
+  color: #7f8cff;
 }

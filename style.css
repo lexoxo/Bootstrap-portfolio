@@ -25,9 +25,8 @@ body {
 }
 
 .contact{
-  background-image: url(img/contact-bg-desktop.svg);
-  background-repeat: no-repeat;
-  background-size:cover;
+  background-image: url(img/form-bg.svg), url(img/contact-bg-desktop.svg);
+  background-size:cover, cover;
   padding-top: 10em !important;
   padding-bottom: 10em !important;
 }

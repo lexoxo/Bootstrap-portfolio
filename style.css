@@ -23,3 +23,11 @@ body {
 .s-width{
   width: 15% !important;
 }
+
+.contact{
+  background-image: url(img/contact-bg-desktop.svg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  padding-top: 10em !important;
+  padding-bottom: 10em !important;
+}

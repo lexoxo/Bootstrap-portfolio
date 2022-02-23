@@ -15,18 +15,20 @@ body {
 .connect {
   color: #7f8cff;
 }
-.about-myself{
-  margin-top:10rem!important;
-  margin-bottom:10rem!important;
+.about-myself {
+  margin-top: 10rem !important;
+  margin-bottom: 10rem !important;
 }
 
-.s-width{
+.s-width {
   width: 15% !important;
 }
 
-.contact{
+.contact {
   background-image: url(img/form-bg.svg), url(img/contact-bg-desktop.svg);
-  background-size:cover, cover;
+  background-size: cover, cover;
   padding-top: 10em !important;
   padding-bottom: 10em !important;
+  background: #6070ff;
+  border-top-left-radius: 55pt 25pt;
 }

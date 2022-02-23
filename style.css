@@ -15,6 +15,7 @@ body {
 .connect {
   color: #7f8cff;
 }
+
 .about-myself {
   margin-top: 10rem !important;
   margin-bottom: 10rem !important;
@@ -31,5 +32,4 @@ body {
   background-size: cover;
   padding-top: 10em !important;
   padding-bottom: 10em !important;
-  
 }

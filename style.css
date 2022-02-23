@@ -33,3 +33,8 @@ body {
   padding-top: 10em !important;
   padding-bottom: 10em !important;
 }
+
+.icon {
+  font-size: 1.3em;
+  vertical-align: bottom;
+}
